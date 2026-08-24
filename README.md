@@ -1,4 +1,4 @@
-# 🇮🇳 India Air Quality Analysis (2010–2023)
+# India Air Quality Analysis (2010–2023)
 
 A **data analytics deep dive** into India’s air quality crisis, built with **Tableau** and powered by the **India Air Quality Master Dataset** — covering **595,882 observations** across **241 cities** and **31 states and territories** over **14 years**.
 
